@@ -27,10 +27,20 @@ mode then, I consider adding such, as a custom secondary website, but that would
 be hard to maintain as current.
 
 
+Moved meat to [separate repository](), if wanted to use separately. The posts
+will be available as markdown files, for now, for any to do as they please, you
+could use [mdbook](https://github.com/rust-lang/mdBook), or use
+[cobalt](https://cobalt-org.github.io/) to put up a mirror of this wiki, I will
+do so myself.
 
+<!--
 NOW WITH [COBALT](https://cobalt-org.github.io/)!
+-->
 
 
 Currently lacking in articles
+
+PLZ if there is something you are proficient in or know about then write about
+it to help us noobs.
 
 <!-- -->
