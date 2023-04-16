@@ -17,3 +17,4 @@ hugo
 
 # NEW COBALT
 /_site/
+/posts/*
