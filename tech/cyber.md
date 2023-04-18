@@ -28,3 +28,7 @@ sources.
 ## MISC
 
 - [mza7a pentest-checklist](https://github.com/mza7a/pentest-checklist)
+
+
+<!-- vim: tw=64 tabstop=4 shiftwidth=4 expandtab
+-->

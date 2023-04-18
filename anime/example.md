@@ -4,7 +4,8 @@ title: First Post
 is_draft: false
 ---
 
-# TOBE
+# TOBE DONE
 
-<!-- vim: tw=64
+
+<!-- vim: tw=64 tabstop=4 shiftwidth=4 expandtab
 -->

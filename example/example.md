@@ -24,8 +24,9 @@ As seen above two spaces
 
 ## EOF 
 
-At the end of the file you need to do two things, but the vim
-thing. That's it.
+EOF, or end of file, it is required that you put this vvv
+at the bottom, so we have some amount of consistency.
 
-<!-- vim: tw=64
+
+<!-- vim: tw=64 tabstop=4 shiftwidth=4 expandtab
 -->
