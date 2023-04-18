@@ -1,21 +1,21 @@
-<h1 align="center" style="font-size:72px">
-<a href="https://prex-aliya.github.io/index.html">Wiki Wiki</a>
-</h1>
+---
+layout: default.liquid
+title: Cybersecurity
+is_draft: false
+---
 
-<details><summary>summary</summary>
+# Summery
 
 This is a small in-depth dive to the cybersecurity industry, mainly a list of
 sources.
 
-</details>
 
 # Learn (Get You Feet Wet)
-
 
 ## Youtube
 
 | Name      	| Description																 			     | Link  |
-| :-----------: |:------------------------------------------------------------------------------------------:                   | :---------------------------------------------:|
+| ------------- | -------------------------------------------------------------------------------------------                   | ---------------------------------------------- |
 | Liveoverflow  | One of the best channels on youtube to learn reverse engineering and PWN.                                     | [link](https://www.youtube.com/c/LiveOverflow) |
 | IPPSEC        | Does retired machines from HackTheBox, great way to learn what to do before every machine.                    | [Link](https://www.youtube.com/c/ippsec) |
 | John Hammond  | Does different kind of CTFs, you can learn how to use lot of tools, and techniques.                           | [Link](https://www.youtube.com/c/JohnHammond010) |
@@ -23,6 +23,7 @@ sources.
 | NetworkChuck  | If you are looking where to learn very basic stuff with a fun way, this guy is yours.		                | [Link](https://www.youtube.com/c/NetworkChuck) |
 | CryptoCat		| Although this channel is newly, it has some really great content you definetly should check           | [link](https://www.youtube.com/c/CryptoCat23) |
 | HackerSploit  | This one explains tools, and does HackTheBox retired machines. And also does real life scenarios hacking      | [Link](https://www.youtube.com/c/HackerSploit) |
+
 
 ## MISC
 
