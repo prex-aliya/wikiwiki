@@ -25,10 +25,10 @@ sources.
 | HackerSploit  | This one explains tools, and does HackTheBox retired machines. And also does real life scenarios hacking      | [Link](https://www.youtube.com/c/HackerSploit) |
 
 
-## MISC
+## SOURCES
 
 - [mza7a pentest-checklist](https://github.com/mza7a/pentest-checklist)
-
+- [**hacktricks**](https://book.hacktricks.xyz)
 
 <!-- vim: tw=64 tabstop=4 shiftwidth=4 expandtab
 -->
