@@ -15,7 +15,7 @@ sources.
 ## Youtube
 
 | Name      	| Description																 			     | Link  |
-| ------------- | -------------------------------------------------------------------------------------------                   | ---------------------------------------------- |
+| --- | --- | -- |
 | Liveoverflow  | One of the best channels on youtube to learn reverse engineering and PWN.                                     | [link](https://www.youtube.com/c/LiveOverflow) |
 | IPPSEC        | Does retired machines from HackTheBox, great way to learn what to do before every machine.                    | [Link](https://www.youtube.com/c/ippsec) |
 | John Hammond  | Does different kind of CTFs, you can learn how to use lot of tools, and techniques.                           | [Link](https://www.youtube.com/c/JohnHammond010) |
