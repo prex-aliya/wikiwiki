@@ -49,6 +49,12 @@ title: A list of Wiki's
         <td><a href="https://encyclopediaofmath.org/">https://encyclopediaofmath.org/</a></td>
         <td>TRUE</td>
     </tr>
+    <tr>
+        <td>Encyclopedia Dramatica</td>
+        <td>Parody of Internet Memes</td>
+        <td><a href="https://encyclopediadramatica.online">https://encyclopediadramatica.online/</a></td>
+        <td>FALSE</td>
+    </tr>
 <!--<tr>
         <td>Encyclopedia Dramatica</td>
         <td>Parody of Internet Memes</td>
@@ -56,6 +62,18 @@ title: A list of Wiki's
         <td>FALSE</td>
     </tr>-->
 </table>
+
+# Sources
+
+<ul>
+    <li><a href="https://www.fandom.com/explore">Fandom</a> - Mainly for media and art</li>
+    <li><a href="https://www.mediawiki.org/wiki/Sites_using_MediaWiki/en">MediaWiki</a>
+    - This is the softwhare that makes up most of these wikis.</li>
+    <li><a
+    href="https://en.wikipedia.org/wiki/List_of_wikis">Wikipedia</a>
+    - One of the biggest wikis</li>
+<!--<li><a href=""></a></li>-->
+</ul>
 
 
 <!-- vim: tw=64 tabstop=4 shiftwidth=4 expandtab
