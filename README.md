@@ -20,6 +20,9 @@ WIKI X WIKI, is a website where you can learn how to learn, and find where you
 can learn, it will be a database of places to learn, and get off your feet.
 Hopefully in the future, help become an expert in a specific field, or fields.
 
+I hope for this to be a launching point into what you want to learn, and
+explore!
+
 My goal for the back end of this website will be html with css, but without any
 JavaScript, or cookies, or any client side scripting, and try to be compatible
 with some heavy privacy settings. Dark mode is default, if enough want light
