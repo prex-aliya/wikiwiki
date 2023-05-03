@@ -18,8 +18,8 @@ title: A list of Wiki's
     </tr>
     <tr>
         <td>URL</td>
-        <td><a href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL"
-        Uniform Resource Locator</a></td>
+        <td><a
+        href="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL">Uniform Resource Locator</a></td>
     </tr>
     <tr>
         <td>TOR</td>
